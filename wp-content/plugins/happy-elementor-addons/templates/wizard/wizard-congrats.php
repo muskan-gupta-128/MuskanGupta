@@ -1,5 +1,5 @@
 <div class="inner-content">
-    <img src="/https://muskan-gupta-128.github.io/MuskanGupta/wp-content/plugins/happy-elementor-addons/templates/wizard/HAPPY_ADDONS_ASSETSimgs/wizard/congrats.svg" alt="" style="max-height:300px; width: 100%"><h2 class="congrats-info">You have completed your setup for HappyAddons…</h2>
+    <img src="https://muskan-gupta-128.github.io/MuskanGupta/wp-content/plugins/happy-elementor-addons/templates/wizard/HAPPY_ADDONS_ASSETSimgs/wizard/congrats.svg" alt="" style="max-height:300px; width: 100%"><h2 class="congrats-info">You have completed your setup for HappyAddons…</h2>
     <div class="details">Add more creativity to your design with HappyAddons 😃</div>
     <ha-nav prev="" next="" done="done" @set-tab="setTab"></ha-nav><div class="quick-links">
         <a href="https://www.facebook.com/groups/HappyAddonsCommunity" target="_blank">Join our Official Facebook Group</a>

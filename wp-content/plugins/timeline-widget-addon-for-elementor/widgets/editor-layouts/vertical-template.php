@@ -20,7 +20,7 @@
                     </div>
                     <div class="twae-data-container {{{ no_border }}}">
                         <span view.getrenderattributestring title_key>{{{ item.twae_story_title}}}</span>
-                        <div class="twae-timeline-img"><img src="/https://muskan-gupta-128.github.io/MuskanGupta/wp-content/plugins/timeline-widget-addon-for-elementor/widgets/editor-layouts/{{{ image_url }}}"></div>
+                        <div class="twae-timeline-img"><img src="https://muskan-gupta-128.github.io/MuskanGupta/wp-content/plugins/timeline-widget-addon-for-elementor/widgets/editor-layouts/{{{ image_url }}}"></div>
                         <div view.getrenderattributestring description_key>{{{ item.twae_description }}}</div>
                     </div>
                 </div>

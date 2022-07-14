@@ -9,24 +9,24 @@
         <h3>Premium features awaiting you:</h3>
         <div class="flex-list">
             <div class="promo-item">
-                <img src="/https://muskan-gupta-128.github.io/MuskanGupta/wp-content/plugins/happy-elementor-addons/templates/wizard/HAPPY_ADDONS_ASSETSimgs/wizard/ic-cross-domain.svg" alt=""><div class="item-title">Cross domain<br><span class="red">copy</span><span class="blue">paste</span>
+                <img src="https://muskan-gupta-128.github.io/MuskanGupta/wp-content/plugins/happy-elementor-addons/templates/wizard/HAPPY_ADDONS_ASSETSimgs/wizard/ic-cross-domain.svg" alt=""><div class="item-title">Cross domain<br><span class="red">copy</span><span class="blue">paste</span>
 </div>
             </div>
             <div class="promo-item">
-                <img src="/https://muskan-gupta-128.github.io/MuskanGupta/wp-content/plugins/happy-elementor-addons/templates/wizard/HAPPY_ADDONS_ASSETSimgs/wizard/ic-live-copy.svg" alt=""><div class="item-title">Happy<br><span class="red">live</span><span class="blue">copy</span>
+                <img src="https://muskan-gupta-128.github.io/MuskanGupta/wp-content/plugins/happy-elementor-addons/templates/wizard/HAPPY_ADDONS_ASSETSimgs/wizard/ic-live-copy.svg" alt=""><div class="item-title">Happy<br><span class="red">live</span><span class="blue">copy</span>
 </div>
             </div>
             <div class="promo-item">
-                <img src="/https://muskan-gupta-128.github.io/MuskanGupta/wp-content/plugins/happy-elementor-addons/templates/wizard/HAPPY_ADDONS_ASSETSimgs/wizard/ic-section-nesting.svg" alt=""><div class="item-title">Unlimited<br><span class="red">section</span><span class="blue">Nesting</span>
+                <img src="https://muskan-gupta-128.github.io/MuskanGupta/wp-content/plugins/happy-elementor-addons/templates/wizard/HAPPY_ADDONS_ASSETSimgs/wizard/ic-section-nesting.svg" alt=""><div class="item-title">Unlimited<br><span class="red">section</span><span class="blue">Nesting</span>
 </div>
             </div>
             <div class="promo-item">
-                <img src="/https://muskan-gupta-128.github.io/MuskanGupta/wp-content/plugins/happy-elementor-addons/templates/wizard/HAPPY_ADDONS_ASSETSimgs/wizard/ic-conditional-display.svg" alt=""><div class="item-title">
+                <img src="https://muskan-gupta-128.github.io/MuskanGupta/wp-content/plugins/happy-elementor-addons/templates/wizard/HAPPY_ADDONS_ASSETSimgs/wizard/ic-conditional-display.svg" alt=""><div class="item-title">
 <span class="red">conditional</span><br><span class="blue">Display</span>
 </div>
             </div>
             <div class="promo-item">
-                <img src="/https://muskan-gupta-128.github.io/MuskanGupta/wp-content/plugins/happy-elementor-addons/templates/wizard/HAPPY_ADDONS_ASSETSimgs/wizard/ic-particle.svg" alt=""><div class="item-title">happy<br><span class="red">particle</span><span class="blue">effect</span>
+                <img src="https://muskan-gupta-128.github.io/MuskanGupta/wp-content/plugins/happy-elementor-addons/templates/wizard/HAPPY_ADDONS_ASSETSimgs/wizard/ic-particle.svg" alt=""><div class="item-title">happy<br><span class="red">particle</span><span class="blue">effect</span>
 </div>
             </div>
             <div class="promo-item more">
@@ -39,20 +39,20 @@
         <h3>Widgets you’ll be getting in your toolbox:</h3>
         <div class="flex-list">
             <div class="promo-item">
-                <img src="/https://muskan-gupta-128.github.io/MuskanGupta/wp-content/plugins/happy-elementor-addons/templates/wizard/HAPPY_ADDONS_ASSETSimgs/wizard/ic-menu-pack.svg" alt=""><div class="item-title">Menu pack</div>
+                <img src="https://muskan-gupta-128.github.io/MuskanGupta/wp-content/plugins/happy-elementor-addons/templates/wizard/HAPPY_ADDONS_ASSETSimgs/wizard/ic-menu-pack.svg" alt=""><div class="item-title">Menu pack</div>
                 <p>Simple + mega +  off-canvas + one-page nav</p>
             </div>
             <div class="promo-item">
-                <img src="/https://muskan-gupta-128.github.io/MuskanGupta/wp-content/plugins/happy-elementor-addons/templates/wizard/HAPPY_ADDONS_ASSETSimgs/wizard/ic-blog-pack.svg" alt=""><div class="item-title">Blog post<br>design pack</div>
+                <img src="https://muskan-gupta-128.github.io/MuskanGupta/wp-content/plugins/happy-elementor-addons/templates/wizard/HAPPY_ADDONS_ASSETSimgs/wizard/ic-blog-pack.svg" alt=""><div class="item-title">Blog post<br>design pack</div>
             </div>
             <div class="promo-item">
-                <img src="/https://muskan-gupta-128.github.io/MuskanGupta/wp-content/plugins/happy-elementor-addons/templates/wizard/HAPPY_ADDONS_ASSETSimgs/wizard/ic-woocommerce.svg" alt=""><div class="item-title">woocommerce<br>widget pack</div>
+                <img src="https://muskan-gupta-128.github.io/MuskanGupta/wp-content/plugins/happy-elementor-addons/templates/wizard/HAPPY_ADDONS_ASSETSimgs/wizard/ic-woocommerce.svg" alt=""><div class="item-title">woocommerce<br>widget pack</div>
             </div>
             <div class="promo-item">
-                <img src="/https://muskan-gupta-128.github.io/MuskanGupta/wp-content/plugins/happy-elementor-addons/templates/wizard/HAPPY_ADDONS_ASSETSimgs/wizard/ic-advanced-slider.svg" alt=""><div class="item-title">advanced<br>slider</div>
+                <img src="https://muskan-gupta-128.github.io/MuskanGupta/wp-content/plugins/happy-elementor-addons/templates/wizard/HAPPY_ADDONS_ASSETSimgs/wizard/ic-advanced-slider.svg" alt=""><div class="item-title">advanced<br>slider</div>
             </div>
             <div class="promo-item">
-                <img src="/https://muskan-gupta-128.github.io/MuskanGupta/wp-content/plugins/happy-elementor-addons/templates/wizard/HAPPY_ADDONS_ASSETSimgs/wizard/ic-advanced-tab.svg" alt=""><div class="item-title">advanced<br>tab</div>
+                <img src="https://muskan-gupta-128.github.io/MuskanGupta/wp-content/plugins/happy-elementor-addons/templates/wizard/HAPPY_ADDONS_ASSETSimgs/wizard/ic-advanced-tab.svg" alt=""><div class="item-title">advanced<br>tab</div>
             </div>
             <div class="promo-item more">
                 <div class="item-title">45+ More...</div>

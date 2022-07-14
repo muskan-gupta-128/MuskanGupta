@@ -9,8 +9,8 @@
 
 <channel>
 	<title>Muskan Gupta</title>
-	<atom:link href="/https://muskan-gupta-128.github.io/MuskanGupta/index.php/feed/" rel="self" type="application/rss+xml" />
-	<link>/https://muskan-gupta-128.github.io/MuskanGupta/</link>
+	<atom:link href="https://muskan-gupta-128.github.io/MuskanGupta/index.php/feed/" rel="self" type="application/rss+xml" />
+	<link>https://muskan-gupta-128.github.io/MuskanGupta/</link>
 	<description>Just another WordPress site</description>
 	<lastBuildDate>Thu, 14 Jul 2022 13:53:23 +0000</lastBuildDate>
 	<language>en-US</language>
